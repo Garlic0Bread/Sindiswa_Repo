@@ -1,0 +1,4 @@
+repository "Sindiswa Journey@Owl_Kun@cloud"
+  path "/"
+    smartbranch "/main"  
+     
